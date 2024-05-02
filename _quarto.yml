@@ -7,7 +7,6 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - href: portfolio.qmd
 
 format:
   html:
