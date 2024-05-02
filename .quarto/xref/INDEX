@@ -4,5 +4,8 @@
   },
   "about.qmd": {
     "about.html": "ceab12ab"
+  },
+  "docs/portfolio.qmd": {
+    "portfolio.html": "5db18224"
   }
 }
