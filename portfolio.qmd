@@ -7,4 +7,6 @@ title: "Portfolio"
 Here, you can see a project I worked on.
 
  <ul>
- <li><a href="/portfolio/flaviamemoproject.html target="_blank">Air Pollution and Income</a></li>
+<li><a href="portfolio/flaviamemoproject.html"target="_blank">Air Pollution and Income</a></li>
+</ul>
+
